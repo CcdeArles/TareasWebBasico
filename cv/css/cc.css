@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Palanquin+Dark');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+body
+{
+	background: white;
+	margin: 0px;
+}
+h1
+{	
+	font-family: 'Poppins', sans-serif;
+	margin:0px;
+	padding: 10px;
+	text-align: center;
+	background: lightskyblue;
+	font-size: 40px;
+}
+.letra
+{
+	font-size:10px;
+}
+.info
+{
+  position: relative; 
+  text-align: center;
+  border: lightskyblue 4px solid;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-right: 1500px;
+  transform: translateX(410px);
+  width: 200px;
+  margin-top: 90px;
+  height: 60px;
+  font-size: 20px;
+  background: lightskyblue;
+}
+.info1
+{
+  font-family: 'PT Sans', sans-serif;
+  position: relative;
+  margin-right: 1200px;
+  margin-top:-70px;
+  transform: translateX(640px);
+}
+.black
+{
+	font-size: 24px;
+	font-family: 'Pangolin', cursive;
+}
+.txt
+{
+	font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+.info2
+{
+  font-family: 'PT Sans', sans-serif;
+  position: relative;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-right: 1200px;
+  margin-top:-60px;
+  transform: translateX(640px);
+}
+h3
+{
+	font-size: 20px;
+	color: black;
+	font-family: 'Palanquin Dark', sans-serif;
+}
+p
+{
+	color: white;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+a:hover
+{
+	color: mediumslateblue;
+}
+.foto
+{
+	font-family: 'PT Sans', sans-serif;
+	background-color: lightskyblue;
+	font-size: 20px;
+	position: absolute;
+	padding: 20px;
+}
+.dark
+{
+	background: lightskyblue;
+	padding: 20px;
+	color: white;
+	position: relative;
+	margin-top: -71px;
+	margin-right: 1700px;
+	text-align: center;
+	transform: translateX(390px);
+}
+.footer
+{
+	position: relative;
+	margin-top: 110px;
+	background: lightskyblue;
+	padding: 30px;
+}

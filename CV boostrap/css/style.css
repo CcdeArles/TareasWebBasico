@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Palanquin+Dark');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+body
+{
+	background: gray;
+	margin: 0px;
+}
+.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-6,.col-md-8,.col-md9,.col-md-12
+{
+	padding-top:10PX;
+	padding-bottom:10px;
+}
+
+.col-xs-12,.col-xs-6,.col-xs-4,.col-xs-8,.col-xs-9,.col-xs-3
+{	
+	padding-top:10PX;
+	padding-bottom:10px;
+	background: rgba(86,61,124,.15);
+	border:1px solid rgba(86,61,124,.15);
+}
+
+
+.col-md-push-3,.col-md-pull-9
+{	
+	padding-top:10PX;
+	padding-bottom:10px;
+	background: rgba(86,61,124,.15);
+	border:1px solid rgba(86,61,124,.15);
+}
+.nav
+{
+	padding: 6px;
+	font-size: 20px;
+	font-family: 'Varela Round', sans-serif;
+}
+.cara
+{
+	transform: translateY(-10px);
+}
+.letra
+{
+	font-size:10px;
+}
+.info
+{
+  position: relative; 
+  text-align: center;
+  border: black 4px solid;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-right: 1500px;
+  transform: translateX(410px);
+  width: 200px;
+  margin-top: 90px;
+  height: 60px;
+  font-size: 20px;
+  background: black;
+}
+.info1
+{
+  font-family: 'PT Sans', sans-serif;
+  position: relative;
+  margin-right: 1200px;
+  margin-top:-110px;
+  transform: translateX(640px);
+}
+.black
+{
+	font-size: 24px;
+	font-family: 'Pangolin', cursive;
+	color:white;
+}
+.txt
+{
+	font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+.info2
+{
+  font-family: 'PT Sans', sans-serif;
+  position: relative;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-right: 1200px;
+  margin-top:-60px;
+  transform: translateX(640px);
+}
+h3
+{
+	font-size: 20px;
+	color: plum;
+	font-family: 'Palanquin Dark', sans-serif;
+}
+p
+{
+	color: white;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+a:hover
+{
+	color: lightblue;
+	text-decoration: none;
+}
+.foto
+{
+	margin-top: -20px;
+	font-family: 'PT Sans', sans-serif;
+	background-color: black;
+	font-size: 20px;
+	position: absolute;
+	padding: 20px;
+}
+
+.footer
+{
+	position: relative;
+	margin-top: 70px;
+	background: black;
+	padding: 30px;
+}

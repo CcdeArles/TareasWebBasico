@@ -1,0 +1,74 @@
+body
+{
+	margin: 0px;
+}
+div
+{
+	width: 100px;
+	height: 100px;
+	background: darkorange;
+	float: left;
+	font-size: 30px;
+}
+.cajapadre
+{
+	
+	position: absolute;
+	background: darkorange;
+	top:400px;
+	left: 400px;
+}
+.caja
+{
+	position:relative;
+	top: -12px;
+}
+.caja1
+{
+	position: absolute;
+	top: -100px;
+}
+.caja2
+{
+	position: relative;
+	top: 300px;
+	right: -500px;
+}
+.caja4
+{
+	position: absolute;
+	top: 600px;
+	left: 500px;
+	color:white;
+}
+.caja5
+{
+	position: relative;
+	top:0px;
+	left: 100px;
+	background: white;
+}
+.caja6
+{
+	position: relative;
+	top: 200px;
+	left: 500px;
+}
+.caja7
+{
+	position: relative;
+	top: 400px;
+	left: 0px;
+}
+.caja8
+{
+	position: relative;
+	top: 600px;
+	left: 200px;
+}
+.caja9
+{
+	position: absolute;
+	top:200px;
+	left:400px;
+}
